@@ -297,6 +297,9 @@ html,body{
        font-weight: 10;
         
     }
+    #textabout p {
+        font-size: 10px;
+    }
     .elem{
         gap: 50px;
     }
